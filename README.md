@@ -1,7 +1,7 @@
 
 # Prueba Programación Andorid - Alberto Valera
 
-**Link al Repositorio:** 
+**Link al Repositorio:** https://github.com/aalbertovalera48/PruebaProgramacionAndroid.git
 
 ## Uso
 1. Ejecuta la aplicación en un dispositivo Android o emulador.
