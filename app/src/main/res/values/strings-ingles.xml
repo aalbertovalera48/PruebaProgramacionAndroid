@@ -1,0 +1,15 @@
+<!-- res/values/strings-ingles.xml -->
+<resources>
+    <string name="app_name_en">Task List</string>
+    <string name="hint_add_task_en">Enter a task</string>
+    <string name="button_add_task_en">Add Task</string>
+    <string name="button_pending_en">Pending</string>
+    <string name="button_done_en">Done</string>
+    <string name="action_delete_en">Delete</string>
+    <string name="action_mark_done_en">Mark as Done</string>
+    <string name="hint_product_name_en">Product Name</string>
+    <string name="hint_quantity_en">Quantity (optional)</string>
+    <string name="hint_price_en">Price (optional)</string>
+    <string name="button_add_product_en">Add Product</string>
+    <string name="summary_text_en">Purchase Summary</string>
+</resources>
